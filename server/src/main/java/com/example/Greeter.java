@@ -10,6 +10,8 @@ public class Greeter {
    */
   public Greeter() {
 
+    System.out.println("Anmol");
+
   }
 
   //TODO: Add javadoc comment

@@ -1,0 +1,48 @@
+/usr/local/lib/python2.7/dist-packages/OpenSSL/crypto.py:14: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography import utils, x509
+--2023-02-08 07:32:36--  https://hdiconfigactions.blob.core.windows.net/linuxhdiplclusterconfigactionv01/configure_spark.py
+Resolving hdiconfigactions.blob.core.windows.net (hdiconfigactions.blob.core.windows.net)... 52.239.229.100
+Connecting to hdiconfigactions.blob.core.windows.net (hdiconfigactions.blob.core.windows.net)|52.239.229.100|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2555 (2.5K) [text/plain]
+Saving to: ‘/opt/startup_scripts/configure_spark.py’
+
+     0K ..                                                    100%  274M=0s
+
+2023-02-08 07:32:36 (274 MB/s) - ‘/opt/startup_scripts/configure_spark.py’ saved [2555/2555]
+
+/usr/local/lib/python2.7/dist-packages/OpenSSL/crypto.py:14: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography import utils, x509
+/usr/local/lib/python2.7/dist-packages/OpenSSL/crypto.py:14: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography import utils, x509
+kdestroy: No credentials cache found while destroying cache
+--2023-02-08 07:34:17--  https://hdiconfigactions.blob.core.windows.net/linuxhdiplclusterconfigactionv01/patch_namenodehaalert_esp.py
+Resolving hdiconfigactions.blob.core.windows.net (hdiconfigactions.blob.core.windows.net)... 52.239.229.100
+Connecting to hdiconfigactions.blob.core.windows.net (hdiconfigactions.blob.core.windows.net)|52.239.229.100|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3185 (3.1K) [application/octet-stream]
+Saving to: ‘/tmp/patch_namenodehaalert_esp.py’
+
+     0K ...                                                   100%  327M=0s
+
+2023-02-08 07:34:17 (327 MB/s) - ‘/tmp/patch_namenodehaalert_esp.py’ saved [3185/3185]
+
+/usr/local/lib/python2.7/dist-packages/OpenSSL/crypto.py:14: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography import utils, x509
+--2023-02-08 07:34:18--  https://hdiconfigactions.blob.core.windows.net/linuxhdiplclusterconfigactionv01/patch_policy_esp.py
+Resolving hdiconfigactions.blob.core.windows.net (hdiconfigactions.blob.core.windows.net)... 52.239.229.100
+Connecting to hdiconfigactions.blob.core.windows.net (hdiconfigactions.blob.core.windows.net)|52.239.229.100|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4302 (4.2K) [text/plain]
+Saving to: ‘/tmp/patch_policy_esp.py’
+
+     0K ....                                                  100%  215M=0s
+
+2023-02-08 07:34:18 (215 MB/s) - ‘/tmp/patch_policy_esp.py’ saved [4302/4302]
+
+/usr/local/lib/python2.7/dist-packages/OpenSSL/crypto.py:14: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography import utils, x509
+/usr/local/lib/python2.7/dist-packages/OpenSSL/crypto.py:14: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography import utils, x509
+/usr/local/lib/python2.7/dist-packages/OpenSSL/crypto.py:14: CryptographyDeprecationWarning: Python 2 is no longer supported by the Python core team. Support for it is now deprecated in cryptography, and will be removed in the next release.
+  from cryptography import utils, x509
